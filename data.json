@@ -1,0 +1,140 @@
+{
+  "data": {
+    "people": [
+      {
+        "id": "cky0uhrso54i00b21hphqh2kn",
+        "name": "Bhaktiram",
+        "personreference": null,
+        "relation": null
+      },
+      {
+        "id": "cky0uioz454io0b21eswbnrtl",
+        "name": "Tulsiram",
+        "personreference": {
+          "name": "Bhaktiram"
+        },
+        "relation": "Son"
+      },
+      {
+        "id": "cky0uj6q02ixu0c15s30kluyv",
+        "name": "Dhanjaya",
+        "personreference": {
+          "name": "Bhaktiram"
+        },
+        "relation": "Son"
+      },
+      {
+        "id": "cky0ujp8o54ki0b21hc4j7sxs",
+        "name": "Chabilal",
+        "personreference": {
+          "name": "Tulsiram"
+        },
+        "relation": "Son"
+      },
+      {
+        "id": "cky0uknyo54lf0b21bky1dntw",
+        "name": "Dilliram",
+        "personreference": {
+          "name": "Tulsiram"
+        },
+        "relation": "Son"
+      },
+      {
+        "id": "cky0ulcnk54md0b21sdaafh9z",
+        "name": "Karnakhar",
+        "personreference": {
+          "name": "Dhanjaya"
+        },
+        "relation": "Son"
+      },
+      {
+        "id": "cky0uls3454n80b21avv4s705",
+        "name": "Balaram",
+        "personreference": {
+          "name": "Chabilal"
+        },
+        "relation": "Son"
+      },
+      {
+        "id": "cky0um7io54ns0b2110ti382e",
+        "name": "Baburam",
+        "personreference": {
+          "name": "Chabilal"
+        },
+        "relation": "Son"
+      },
+      {
+        "id": "cky0umleo54or0b21o2facwoi",
+        "name": "Laxmiprasad",
+        "personreference": {
+          "name": "Chabilal"
+        },
+        "relation": "Son"
+      },
+      {
+        "id": "cky0umyiw54pv0b21sg812ing",
+        "name": "Rabilal",
+        "personreference": {
+          "name": "Chabilal"
+        },
+        "relation": "Son"
+      },
+      {
+        "id": "cky0uo0c054qs0b21dxvpneat",
+        "name": "Shreebilas",
+        "personreference": {
+          "name": "Karnakhar"
+        },
+        "relation": "Son"
+      },
+      {
+        "id": "cky0uofrk2j600c15mczbvk8y",
+        "name": "Parmananda",
+        "personreference": {
+          "name": "Karnakhar"
+        },
+        "relation": "Son"
+      },
+      {
+        "id": "cky0uoya82j6s0c15nehwh510",
+        "name": "Dilliram",
+        "personreference": {
+          "name": "Karnakhar"
+        },
+        "relation": "Son"
+      },
+      {
+        "id": "cky0upbeg2j830c15y4pgh4a2",
+        "name": "Krishnalal",
+        "personreference": {
+          "name": "Karnakhar"
+        },
+        "relation": "Son"
+      },
+      {
+        "id": "cky0uppag54up0b215jjwcfc6",
+        "name": "Agniprasad",
+        "personreference": {
+          "name": "Laxmiprasad"
+        },
+        "relation": "Son"
+      },
+      {
+        "id": "cky0uq2eo54w30b2192p4etsr",
+        "name": "Gagaram",
+        "personreference": {
+          "name": "Laxmiprasad"
+        },
+        "relation": "Son"
+      },
+      {
+        "id": "cky0uqgao54wv0b21saq94378",
+        "name": "Rupnarayan",
+        "personreference": {
+          "name": "Laxmiprasad"
+        },
+        "relation": "Son"
+      }
+    ]
+  }
+}
